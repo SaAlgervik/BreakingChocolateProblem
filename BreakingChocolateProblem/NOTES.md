@@ -11,7 +11,7 @@
 ### Notes:
 
 - 1x1 -> return zero - ✅
-- 2x1 -> return one - ❌
-- 3x2 -> r
-- 2x2
-- 3x3
+- 2x1 -> return one - ✅
+- 3x1 -> return two - 
+- 2x2 -> return two
+- 3x3 -> return four
