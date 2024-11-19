@@ -13,5 +13,5 @@
 - 1x1 -> return zero - ✅
 - 2x1 -> return one - ✅
 - 3x1 -> return two - 
-- 2x2 -> return two
-- 3x3 -> return four
+- 2x2 -> return three - 
+- 3x3 -> return eight -
